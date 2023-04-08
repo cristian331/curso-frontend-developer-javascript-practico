@@ -52,7 +52,7 @@ productsList.push({
     name: 'Shoes',
     price: 320,
     description:'These shoes will take you everywhere, this is the perfect style for a person that lives his live in freedom and peace.',
-    image: 'https://ae01.alicdn.com/kf/HTB1ElVQJFXXXXXkXFXXq6xXFXXXL/2015-de-inverno-homens-sapatos-t-nis-para-homens-Flats-moda-Casual-Sneakers-homens-Lace-up.jpg_Q90.jpg_.webp'
+    image: 'https://cms-cdn.thesolesupplier.co.uk/2021/05/untitled-09454_w1160.jpg'
 });
 
 function toggleDesktopMenu(){
